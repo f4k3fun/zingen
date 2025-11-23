@@ -83,6 +83,10 @@ a:hover {
   color: transparent;
 }
 
+& img {
+  max-width: 100%;
+  display: inline-block;
+}
 
 ul[role="list"]{
   list-style: none;
