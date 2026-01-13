@@ -3,7 +3,7 @@
 Projeto de uma landing page desenvolvida para apresentar um aplicativo de canto, com foco em design, layout e organização visual para desktop.
 
 ## 📸 Pré-visualização
-![Preview da landing page](cover.png)
+![Preview da landing page](Cover.png)
 
 ## 🛠 Tecnologias utilizadas
 - HTML5
